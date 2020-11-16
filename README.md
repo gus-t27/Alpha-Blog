@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple CRUD Rails application built by myself for learning purposes.
 
-Things you may want to cover:
+I tried to build as much as possible from scratch ie. creating an authentication system without using Devise Gem and creating admin functionality.
 
-* Ruby version
+Please feel free to use:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://rails-alpha-blog-gus.herokuapp.com/
